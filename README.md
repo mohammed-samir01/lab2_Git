@@ -1,8 +1,14 @@
 # lab2_Git
 
 To delete remote branches => git push origin :master   &  git push origin :dev   &  git push origin :test
+
+
 To delete local branches  => git branch -d mastere     & git branch -d dev   &  git branch -d test
+
+
 To delete remote tages    => git push origin --delete v1.7
+
+
 To delete local tags      => git tag -d v1.7
 
 
